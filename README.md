@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+<img src="https://github.png" alt="Banner" width="100%" />
 
 # 🙋‍♀️ Nusrat Humaira  
 ### Frontend Developer | MERN Stack Enthusiast | Firebase Auth Expert
