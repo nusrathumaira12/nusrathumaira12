@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://github.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/nusrathumaira12/nusrathumaira12/refs/heads/main/github.png" alt="Nusrat's GitHub Banner" width="100%" />
+
 
 # 🙋‍♀️ Nusrat Humaira  
 ### Frontend Developer | MERN Stack Enthusiast | Firebase Auth Expert
