@@ -38,13 +38,11 @@ Hi! I'm Nusrat — a passionate web developer from Bangladesh. I love turning id
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrathumaira12&show_icons=true&locale=en&layout=compact" alt="nusrathumaira12" /></p>
+![Nusrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusrathumaira12&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrathumaira12&show_icons=true&locale=en" alt="nusrathumaira12" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrathumaira12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrathumaira12&" alt="nusrathumaira12" /></p>
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=nusrathumaira12&theme=radical)](https://git.io/streak-stats)
 
 ## 💡 Fun Fact
 
