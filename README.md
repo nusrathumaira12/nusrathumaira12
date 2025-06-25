@@ -28,7 +28,7 @@ Hi! I'm Nusrat — a passionate web developer from Bangladesh. I love turning id
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nusrathum31@gmail.com)
