@@ -41,7 +41,7 @@ Hi! I'm Nusrat — a passionate web developer from Bangladesh. I love turning id
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrathumaira12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nusrathumaira12&theme=radical)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrathumaira12&" alt="nusrathumaira12" /></p>
 
 ---
 
