@@ -3,7 +3,7 @@
 
 
 # 🙋‍♀️ Nusrat Humaira  
-### Frontend Developer | MERN Stack Enthusiast | Firebase Auth Expert
+### Web Developer | MERN Stack Enthusiast | Firebase Auth Expert
 
 ---
 
