@@ -43,6 +43,12 @@ Hi! I'm Nusrat — a passionate web developer from Bangladesh. I love turning id
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/nusrathumaira12)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-site-c11d6.web.app/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nusrathum31@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/nusrathumaira12)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-site-c11d6.web.app/)
+
+
 
 ---
 
