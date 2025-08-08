@@ -15,9 +15,16 @@ Hi! I'm Nusrat — a passionate web developer from Bangladesh. I love turning id
 
 ## 🔭 Currently Working On
 
-- 🚀 Building an event discovery & booking platform with Firebase + JWT
-- 🌍 Exploring **Next.js** and **Framer Motion**
-- 🧩 Improving UI/UX of a tourism website
+
+🔍 I am exploring Next.js to build fast, server-rendered React applications.
+
+🌐 I’m working on a studyCollaborative website that helps users discover study sessions and book sessions.
+
+⚙️ Learning advanced React hooks and performance optimization techniques.
+
+📚 Practicing JavaScript coding challenges to strengthen problem-solving skills.
+
+🚀 Building personal projects to improve frontend development skills.
 
 ---
 
